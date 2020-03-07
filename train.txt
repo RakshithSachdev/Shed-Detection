@@ -1,0 +1,4 @@
+C:/Users/Rakshith/Desktop/yolo-custom-object-detector-master/python/Dataset/images/shed.jpg
+C:/Users/Rakshith/Desktop/yolo-custom-object-detector-master/python/Dataset/images/shed1.jpg
+C:/Users/Rakshith/Desktop/yolo-custom-object-detector-master/python/Dataset/images/shed2.jpg
+C:/Users/Rakshith/Desktop/yolo-custom-object-detector-master/python/Dataset/images/shed3.jpg
